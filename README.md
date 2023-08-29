@@ -1,1 +1,2 @@
-# flappy_bird_go
+# Flappy Bird
+A 2D game built with Golang and Raylib engine
